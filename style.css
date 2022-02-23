@@ -3,7 +3,8 @@
 :root{
     --primary-color:rgb(0, 125, 175);
     --secondary-color: white;
-    --third-color: rgb(238, 238, 238);
+    --third-color: rgb(22, 47, 75);
+    --fourth-color: darkgray;
 }
 
 *{
