@@ -30,6 +30,17 @@
 .btn:hover{
     transform: scale(0.98);
 }
+/* background and colored button */
+.bg-primary,
+.btn-primary{
+    background-color: var(--primary-color);
+    color: #fff;
+}
+.btn-dark{
+    background-color: white;
+    color: var(--primary-color);
+}
+
 .flex{
     display: flex;
     justify-content: center;
